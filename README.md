@@ -1,1 +1,1 @@
-```docker compose run --build main```
+```docker compose --file docker-compose-r5c.yaml run --build main```
